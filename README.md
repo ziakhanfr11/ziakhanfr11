@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋 I'm Zia Khan
 
-<!--
-**ziakhanfr11/ziakhanfr11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Python + Web Dev**  
+📍 Learning in Public | Building Projects Daily
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Python, Django, React
+- 👨‍💻 All my projects: [Pinned Repos below]
+- 💬 Ask me about: Python basics, GitHub
+- 📫 How to reach me: ziakhanfr4@gmail.com | WTSP: 03349337099
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My GitHub Stats:
+![Zia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziakhanfr11&show_icons=true)
+
+### Languages I use:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziakhanfr11&layout=compact)
