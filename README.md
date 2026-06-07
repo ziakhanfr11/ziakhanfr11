@@ -16,33 +16,29 @@
 
 ---
 
-<div align="center">
-
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ziakhanfr11&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
+[Zia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziakhanfr11&show_icons=true&theme=radical)
 
 ### 💻 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziakhanfr11&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
-
-</div>
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziakhanfr11&layout=compact&theme=radical)
 
 ---
 
 ### 🚀 My Projects
 
 **🎮 [Aviator Game](https://github.com/ziakhanfr11/Aviator-Game)**  
-HTML, CSS & JS se banaya hua casino-style game. Real-time betting + smooth animations.
+HTML, CSS & JS casino game. Real-time betting + animations.
 
 **🌐 [Zia Website](https://github.com/ziakhanfr11/zia-website)**  
-Personal portfolio website. GitHub Pages pe live hai. Skills + projects showcase.
+Personal portfolio. GitHub Pages pe live.
 
 **📱 [TikTok Clone](https://github.com/ziakhanfr11/TIK-TOK-Clone)**  
-React me TikTok UI clone. Responsive design + fast scrolling.
+React TikTok UI clone. Responsive + fast.
 
 **⭐ [More Projects](https://github.com/ziakhanfr11?tab=repositories)**  
-Roz naye projects build kar raha hun. GitHub pe dekho!
+Roz naye projects. GitHub pe dekho!
 
 ---
 
