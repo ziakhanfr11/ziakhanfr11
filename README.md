@@ -13,3 +13,13 @@
 
 ### Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziakhanfr11&layout=compact&theme=radical)
+### 🚀 My Projects:
+
+**1. [Aviator Game](https://github.com/ziakhanfr11/Aviator--Game)**  
+A fun casino-style game built with HTML, CSS & JavaScript. Features real-time betting and animations.
+
+**2. [Zia Website](https://github.com/ziakhanfr11/zia-website)**  
+My personal portfolio website deployed with GitHub Pages. Shows my skills and projects.
+
+**3. [TikTok Clone](https://github.com/ziakhanfr11/TIK-TOK-Clone)**  
+A TikTok UI clone made with React. Focused on responsive design and smooth scrolling.
