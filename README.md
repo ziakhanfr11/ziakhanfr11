@@ -20,11 +20,11 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ziakhanfr11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ziakhanfr11&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
 
 ### 💻 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziakhanfr11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziakhanfr11&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
 
 </div>
 
@@ -32,39 +32,18 @@
 
 ### 🚀 My Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **🎮 [Aviator Game](https://github.com/ziakhanfr11/Aviator-Game)**  
 HTML, CSS & JS se banaya hua casino-style game. Real-time betting + smooth animations.
 
-</td>
-<td width="50%" valign="top">
-
 **🌐 [Zia Website](https://github.com/ziakhanfr11/zia-website)**  
-Personal portfolio. GitHub Pages pe live. Skills + projects ka showcase.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Personal portfolio website. GitHub Pages pe live hai. Skills + projects showcase.
 
 **📱 [TikTok Clone](https://github.com/ziakhanfr11/TIK-TOK-Clone)**  
 React me TikTok UI clone. Responsive design + fast scrolling.
 
-</td>
-<td width="50%" valign="top">
-
 **⭐ [More Projects](https://github.com/ziakhanfr11?tab=repositories)**  
 Roz naye projects build kar raha hun. GitHub pe dekho!
 
-</td>
-</tr>
-</table>
-
 ---
 
-<div align="center">
-⭐️ Made with ❤️ by <a href="https://github.com/ziakhanfr11">Zia Khan</a>
-</div>
+<div align="center">⭐️ Made with ❤️ by Zia Khan</div>
